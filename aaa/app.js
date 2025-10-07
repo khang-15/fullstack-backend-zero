@@ -1,0 +1,1 @@
+console.log("Hello world with eric hỏi dân it")
